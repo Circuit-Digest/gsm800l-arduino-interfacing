@@ -1,8 +1,6 @@
 # gsm800l-troubleshooting
 
-
-https://github.com/Circuit-Digest/gsm800l-arduino-interfacing/blob/main/images/Blue%20Gradient%20Modern%20Freelancer%20YouTube%20Thumbnail%20%20(1).jpg
-
+![sim800l with arduino uno](https://github.com/Circuit-Digest/gsm800l-arduino-interfacing/assets/65025308/bae48a7e-900d-4e46-97ca-01a36b69838e)
 
 ## 💡 Full Tutorial on CircuitDigest
 
