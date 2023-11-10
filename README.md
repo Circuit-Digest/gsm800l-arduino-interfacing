@@ -24,7 +24,7 @@ Jumper wires
 
 ## 📺 Watch the Tutorial
 
-[![Watch the Tutorial](https://youtu.be/XfvsaFSo74I)](https://youtu.be/XfvsaFSo74I)
+[![Watch the Tutorial]](https://youtu.be/XfvsaFSo74I)
 
 
 
