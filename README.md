@@ -5,3 +5,6 @@
 ## 💡 Full Tutorial on CircuitDigest
 
 Link:- https://circuitdigest.com/microcontroller-projects/interfacing-sim800l-with-arduino-troubleshooting-common-problems
+
+## Watch the full video here
+https://youtu.be/XfvsaFSo74I?si=E3J_l3QggxgA5eq6
